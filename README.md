@@ -6,4 +6,4 @@ Frameworks used.
 - React
 - tailwindcss
 
-Site is live on [netlify](computes.netlify.app)
+Site is live on [netlify](https://computes.netlify.app/)
